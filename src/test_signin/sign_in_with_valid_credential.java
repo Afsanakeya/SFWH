@@ -12,11 +12,12 @@ import loc_variable.SignIn_val;
 
 
 public class sign_in_with_valid_credential extends config {
+	SignIn_val signIn = new SignIn_val();
+
 @Test
 public void loginWithValidCredentialUsingEmailTest(){
 System.out.println ("login With Valid Credential Using Email Test start");
 
-SignIn_val signIn = new SignIn_val();
 clickByXpath(signIn.signInLinkLoc)	;
 typeByXpath(signIn.emailLoc, signIn.emailValue);
 clickByCss(signIn.nextButtonLoc);

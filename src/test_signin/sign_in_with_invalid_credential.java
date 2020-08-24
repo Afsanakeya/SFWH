@@ -8,12 +8,13 @@ import Base.config;
 import loc_variable.SignIn_val;
 
 public class sign_in_with_invalid_credential extends config {
+	
+	SignIn_val signIn = new SignIn_val();
+	
 	@Test
 	public void loginWithInValidCredentialUsingEmailTest(){
 	System.out.println ("login With InValid Credential Using Email Test start");
-
-	SignIn_val signIn = new SignIn_val();
-	clickByXpath(signIn.signInLinkLoc)	;
+    clickByXpath(signIn.signInLinkLoc)	;
 	typeByXpath(signIn.emailLoc, signIn.wrong_email_value);
 	clickByCss(signIn.nextButtonLoc);
 	typeByXpath(signIn.passwordLoc,signIn.wrongpass);
