@@ -42,5 +42,5 @@ public class config extends WDfunctions {
 		driver.quit();
 		System.out.println (" Terminated WD +++++++ ");
 	}
-
 }
+
