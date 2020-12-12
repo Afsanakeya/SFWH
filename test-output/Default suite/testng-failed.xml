@@ -3,15 +3,15 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="test_signin.sign_in_with_invalid_credential">
+      <class name="test_signin.sign_in_with_valid_credential">
         <methods>
-          <include name="loginWithInValidCredentialUsingEmailTest"/>
           <include name="startTestSuite"/>
           <include name="afterEachTestMethod"/>
           <include name="tearDown"/>
+          <include name="loginWithValidCredentialUsingEmailTest"/>
           <include name="beforeEachTestMethod"/>
         </methods>
-      </class> <!-- test_signin.sign_in_with_invalid_credential -->
+      </class> <!-- test_signin.sign_in_with_valid_credential -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

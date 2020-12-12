@@ -3,16 +3,16 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
-	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/Jar/byte-buddy-1.8.15.jar"/>
-	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/Jar/client-combined-3.141.59-sources.jar"/>
-	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/Jar/client-combined-3.141.59.jar"/>
-	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/Jar/commons-exec-1.3.jar"/>
-	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/Jar/guava-25.0-jre.jar"/>
-	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/Jar/jcommander-1.48.jar"/>
-	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/Jar/okhttp-3.11.0.jar"/>
-	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/Jar/okio-1.14.0.jar"/>
-	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/Jar/saxon-8.7.jar"/>
-	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/Jar/SaxonLiaison.jar"/>
-	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/Jar/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/jars/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/jars/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/jars/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/jars/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/jars/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/jars/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/jars/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/jars/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/jars/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/jars/testng-6.9.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
